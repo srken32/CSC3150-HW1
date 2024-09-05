@@ -442,7 +442,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   xMove: 0
-  yMove: -0.06
+  yMove: 0.02
   zMove: 0
 --- !u!1 &5245198016056372128
 GameObject:
